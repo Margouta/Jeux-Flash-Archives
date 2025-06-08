@@ -1,0 +1,60 @@
+cop= © 2OO2 TF1 - MARATHON ANIMATION. All Rights Reserved
+&char=CHARGEMENT EN COURS...
+&pourlire=POUR LIRE LA SUITE, APPUIE SUR LA TOUCHE ESPACE
+&tut1= Bonsoir mesdemoiselles !
+le WOOHP vous confie une mission très importante...
+&tut2=Nous sommes sur la piste de pollueurs.
+Ils rejettent dans la nature des produits chimiques très dangereux...
+&tut3=Nous ne connaissons pas encore la date ni le lieu ou ces canailles comptent agir.
+&tut4=Votre mission sera de vous introduire dans leur forteresse et de voler les informations contenues dans leur ordinateur.
+Voici quelques gadgets pour y parvenir.
+&tut5=Clover, ce com-poudrier vous permettra de pirater leur systeme en vous connectant à leur base de données.
+&tut6=SAM, cette jolie barrette contient un émetteur qui brouille les caméras de surveillance pour qu'elles ne vous repèrent pas.
+&tut7=Quant à vous, Alex, nous avons équipé vos talons d'amortisseurs spéciaux, qui vous permettront d'échapper aux détecteurs de mouvements situés au sol...
+&tut8=Bonne chance !
+&tut9=LES FILLES SE FAUFILENT VERS LA FORTERESSE.
+&tut10= MAIS TOUT à COUP, DES GARDES LES ENTOURENT.
+&tut11=MMMH... JE CROIS BIEN QUE POUR L'effet de SURPRISE, C'est Raté.
+&tut12=*LES GARDES LES ENDORMENT GRâCE à UN gaz SOPORIfIQUE.*
+&tut13=Quelques heures plus tard...
+&tut14=CLOVER ? 
+VOUS M'entendez ?
+&tut15=OUI, oui, JERRY ! 
+Mais ne parlez pas aussi fort, j'ai très mal à la tête !
+&tut16=Dieu merci, Clover, vous êtes enfin réveillée !
+&tut17=J'ai réussi à pirater le système informatique mais seule la porte de votre cellule s'ouvre.
+&tut18=MERCI, jerry.
+&tut19=Maintenant, il faut vous débrouiller pour libérer les autres filles et trouver les informations !
+&tut20=PFFF ! PLUS FACILE à DIRE QU'à FAIRE !
+&tut21=Pour commencer la partie, appuie sur la touche espace.
+&tut22=REVOIR L'introduction
+&tut23=POUR JOUER, C'est tres Simple :
+&tut24=Dirige les filles avec les fleches de ton clavier
+&tut25=Choisis la spies que tu diriges avec la touche "C", ou clique sur son image
+&tut26=continuer
+&ordi=COM-POUDRIER
+&ordifonc=
+CLOVER PEUT PIRATER LE SYSTèME informatique de la forteresse !
+&semelles=semelles
+anti-chocs
+&semellesfonc=
+Alex peut marcher sur les détecteurs sans se faire remarquer !
+&barrette=Barrette MAGNETIQUE
+&barrettefonc=
+SAM ESt invisible pour les caméras de surveillance !
+&commentjouer=COMMENT JOUER ?
+&revenirjeu=revenir au jeu
+&fatal=OH non ! LEUR DISPOSITIF D'ALARME EST TRèS EFFICACE! TOUT EST à RECOMMENCER !
+&fatal2=CLIQUE ICI POuR RECOMMENCER !
+&pirat02=GENIAL ! Sur cet ordinateur, il y a
+toutes les informations pour jerry, et j'ai
+débloqué un passage secret !
+&pirat01= En piratant   l'ordinateur, clover     ouvre la cellule    d'alex
+&textefin=ça fait du bien de retrouver la lumière du jour !
+&textefin2=Félicitations les filles ! Grace a vous, les pollueurs vont être arrêtés !
+&textefin3=ET maintenant... En route vers de nouvelles aventures !
+&textefin4=POUR REJOUER, CLIQUE ICI !
+&space=espace
+&tutordalles=Pour ouvrir la grille bleue de sam, il faut que clover et alex se placent chacune sur une dalle bleue au meme moment.
+&bravo=bravo !
+&titrage=La forteresse piégée !
